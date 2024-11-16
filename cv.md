@@ -58,3 +58,10 @@ const isPrime = (num) => {
    Master degree in Economy
 3. The Rolling Scopes School
    JS/FE Pre-School 2024Q2 (JavaScript); Oct 2024
+
+## Languages
+
+- English - fluent;
+- Russian - native;
+- Chinese - basic;
+- Finnish - basic.
